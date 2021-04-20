@@ -1,0 +1,72 @@
+{
+  "colaboradores": [
+    {
+      "nome": "AAB",
+      "nascimento": "2021-04-20T15:05:58.000Z",
+      "CPF": "66666666666",
+      "genero": "1",
+      "ativo": true,
+      "setor": "Secretaria",
+      "id": 1
+    },
+    {
+      "nome": "YYY",
+      "nascimento": "1951-02-06T02:00:00.000Z",
+      "CPF": "11111111111",
+      "genero": "1",
+      "ativo": true,
+      "setor": "RH",
+      "id": 2
+    },
+    {
+      "nome": "GGG",
+      "nascimento": "1995-08-25",
+      "CPF": "999999999",
+      "genero": "2",
+      "ativo": true,
+      "setor": "TI",
+      "id": 3
+    },
+    {
+      "nome": "Guilhemre",
+      "nascimento": "1997-04-12T03:00:00.000Z",
+      "CPF": "2225.558.669",
+      "genero": "1",
+      "ativo": true,
+      "setor": "TI",
+      "id": 4
+    },
+    {
+      "nome": "Ana Clara",
+      "nascimento": "1988-05-31T03:00:00.000Z",
+      "CPF": "15566955803",
+      "genero": "2",
+      "ativo": true,
+      "setor": "Diretoria",
+      "id": 5
+    }
+  ],
+  "pessoas": [
+    {
+      "nome": "SSS",
+      "email": "s@yahoo.com",
+      "idade": 18,
+      "genero": "2",
+      "id": 3
+    },
+    {
+      "nome": "LLL",
+      "email": "l@hotmail.com",
+      "idade": 52,
+      "genero": "1",
+      "id": 4
+    },
+    {
+      "nome": "AAA",
+      "email": "AAA@hotmail.com",
+      "idade": 23,
+      "genero": "2",
+      "id": 5
+    }
+  ]
+}
